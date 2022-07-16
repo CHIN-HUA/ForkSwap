@@ -9,6 +9,9 @@ https://github.com/CHIN-HUA/Dapp-Learning/tree/main/defi/Uniswap-V2
 
 https://segmentfault.com/a/1190000040401731
 
+https://youtu.be/ivEiOFMTI8w
+
+
 Defi lab:
 
 https://defi-lab.xyz/uniswapv3simulator
