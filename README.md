@@ -28,5 +28,9 @@ https://segmentfault.com/a/1190000014497682?utm_source=sf-similar-article
 
 https://mirror.xyz/0x6996B6Af0EC5d185408B42B8EA64b4ad09209414
 
+2022/7/26遇到問題，不知道怎麼切換到其他network
+![image](https://user-images.githubusercontent.com/72617049/181005557-27e8e528-1e6a-40fe-a10e-69a1d86b8a66.png)
+
+
 
 
