@@ -24,6 +24,9 @@ https://medium.com/@bewatercommunity/near-robert-yan-%E5%9F%BA%E4%BA%8E-rust-%E7
 
 https://segmentfault.com/a/1190000014497682?utm_source=sf-similar-article
 
+https://geth.ethereum.org/docs/interface/private-network
+
+
 合約詳細教學:
 
 https://mirror.xyz/0x6996B6Af0EC5d185408B42B8EA64b4ad09209414
