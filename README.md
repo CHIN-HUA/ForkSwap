@@ -26,6 +26,9 @@ https://segmentfault.com/a/1190000014497682?utm_source=sf-similar-article
 
 https://geth.ethereum.org/docs/interface/private-network
 
+https://ethbook.abyteahead.com/howto.html
+
+
 
 合約詳細教學:
 
